@@ -3,7 +3,8 @@
 int main()
 {
 
-    printf("hello ! ");
-    
+    printf("hello ! \n");
+    printf("I am developer \n");
+
     return 0;
 }
